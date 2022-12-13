@@ -9,11 +9,10 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/EuAndersonRoberto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuAndersonRoberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonRoberto&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=EuAndersonRoberto&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonRoberto&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ##
   
