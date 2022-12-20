@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Anderson Roberto  🎇
-- 🐱‍:man_technologist: Trabalhando atualmente como: Analista Desenvolvedor Junior
+- :anchor::man_technologist: Trabalhando atualmente como: Analista Desenvolvedor Junior
 - :student:🤓 Estudando Golang no momento
 - :world_map::mailbox_with_mail: Contato alternativo: euanderson.roberto@gmail.com
 <div> 
