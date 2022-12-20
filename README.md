@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anderson Roberto  🎇
-- 🐱‍👤 Trabalhando atualmente como: Analista Desenvolvedor Junior
-- 🤓 Estudando Golang no momento
-- 📧 Contato alternativo: euanderson.roberto@gmail.com
+- 🐱‍:man_technologist: Trabalhando atualmente como: Analista Desenvolvedor Junior
+- :student:🤓 Estudando Golang no momento
+- :world_map::mailbox_with_mail: Contato alternativo: euanderson.roberto@gmail.com
 <div> 
   <a href = "mailto:euandersondigital@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/euanderson-roberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
