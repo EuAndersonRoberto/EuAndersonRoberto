@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Anderson Roberto  🎇
 - :anchor::man_technologist: Trabalhando atualmente como: Analista Desenvolvedor Junior
-- :student:🤓 Estudando Golang no momento
+- :student:🤓 Estudando Cloud Onboarding: conhecendo os principais provedores
 - :world_map::mailbox_with_mail: Contato alternativo: euanderson.roberto@gmail.com
 <div> 
   <a href = "mailto:euandersondigital@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
